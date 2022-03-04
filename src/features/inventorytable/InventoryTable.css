@@ -1,0 +1,24 @@
+#tableContainer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#allItems {
+  width: 90vw;
+  max-height: 500px;
+  overflow: scroll;
+}
+
+#lookContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.closeBtns:hover {
+  transform: scale(1.1);
+}

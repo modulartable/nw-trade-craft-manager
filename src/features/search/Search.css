@@ -1,0 +1,11 @@
+#searchContainer {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+.searchDiv {
+margin: 5px;
+padding: 8px;
+}
