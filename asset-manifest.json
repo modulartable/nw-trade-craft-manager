@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nw-trade-craft-manager/static/css/main.7d8920e2.css",
+    "main.js": "/nw-trade-craft-manager/static/js/main.1c51cae9.js",
+    "index.html": "/nw-trade-craft-manager/index.html",
+    "main.7d8920e2.css.map": "/nw-trade-craft-manager/static/css/main.7d8920e2.css.map",
+    "main.1c51cae9.js.map": "/nw-trade-craft-manager/static/js/main.1c51cae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8920e2.css",
+    "static/js/main.1c51cae9.js"
+  ]
+}
