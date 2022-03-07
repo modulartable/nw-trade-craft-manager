@@ -6,3 +6,7 @@ Since there is no official API yet for New World, this tracker / manager allows 
 
 ### The trade skills tracker simply keeps track of all of a user's trade skills
 The tracker shows progress bars, similiar to the in-game tracker, which represent the user's skill level in each of the trade skills in-game.
+
+### Technical information
+
+This project was bootstraped with [Create React App](https://create-react-app.dev/) and built with React.  This project uses [Redux](https://redux.js.org/) / [Redux Toolkit](https://redux-toolkit.js.org/) for state management and utilizes [Reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page) for styling.
